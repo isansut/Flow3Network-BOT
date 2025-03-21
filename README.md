@@ -13,7 +13,7 @@ Bot ini digunakan untuk otomatisasi request bandwidth dan pengecekan poin pada p
 ## 📦 Instalasi
 ### **1. Clone Repository**
 ```sh
-git clone https://github.com/username/Flow3Network-BOT.git
+git clone https://github.com/isansut/Flow3Network-BOT.git
 cd Flow3Network-BOT
 ```
 
